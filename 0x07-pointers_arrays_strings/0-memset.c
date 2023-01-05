@@ -2,11 +2,12 @@
  * File: 0-memset.c
  * Auth: not
  */
- 
+
 #include "main.h"
 
 /*
- * _memset - Fills the first n bytes of the memory are a pointed to the @s with the constant byte @c.
+ * _memset - Fills the first n bytes of the memory area
+ * pointed to the @s with the constant byte @c.
  * @s: A pointer to the memory area to be filled.
  * @c: The character to fill my memory area with.
  * @n: The number of bytes to be filled.
