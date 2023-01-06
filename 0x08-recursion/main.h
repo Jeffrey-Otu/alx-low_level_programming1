@@ -5,7 +5,7 @@
  * File: main.h
  * Auth: Otu Jeffrey
  * Desc: Header file containing prototypes for all functions
- *	used in the 0x07-recursion directory.
+ * used in the 0x07-recursion directory.
  */
 
 int _putchar(char c);
@@ -15,9 +15,7 @@ int _strlen_recursion(char *s);
 int factorial(int n);
 int _pow_recursion(int x, int y);
 int _sqrt_recursion(int n);
-int is_prime_number(int n);
-int is_palindrome(char *s);
-int wildcmp(char *s1, char *s2);                                                
+int is_prime_number(int n);                                                
 #endif
 
 
